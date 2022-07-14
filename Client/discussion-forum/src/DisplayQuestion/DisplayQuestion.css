@@ -1,0 +1,18 @@
+.main {
+    
+    border: 2px solid #f3454b;
+    float: left;
+    width: 450px;
+    overflow-y: auto;
+    height: 475px;
+    background-color:#fd5158;
+    border-radius: 25px;
+    
+}
+h2{
+    text-align: center;
+}
+.display-ques{
+    padding-left: 30px;
+}
+

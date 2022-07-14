@@ -1,0 +1,30 @@
+.Outside-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 330px;
+    margin-right: 100px;
+    margin-top: 50px;
+    width: 650px;
+}
+
+.Inside-main {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #f3454b;
+    float: left;
+    width: 1000px;
+    overflow-y: scroll;
+    color: aliceblue;
+    height: 500px;
+    background-color: #fd5158;
+    border-radius: 25px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.user {
+    padding-left: 30px;
+}
